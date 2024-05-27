@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net" modified="2024-05-27T11:58:08.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="vDdxKnkvFeOSNR-T1kze" version="24.4.8" type="device">
+  <diagram name="Página-1" id="jJy1RU-EPVTx5mREoZYD">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0kT9vvtACOK-H92AWQC_-6" value="INICIO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#878787;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="440" height="78" as="geometry">
+            <mxRectangle x="170" y="150" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0kT9vvtACOK-H92AWQC_-8" value="SENHA" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0kT9vvtACOK-H92AWQC_-6">
+          <mxGeometry y="26" width="440" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0kT9vvtACOK-H92AWQC_-7" value="ESUECEU SENHA&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0kT9vvtACOK-H92AWQC_-6">
+          <mxGeometry y="52" width="440" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0kT9vvtACOK-H92AWQC_-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="215" y="260" width="390" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="0kT9vvtACOK-H92AWQC_-18" value="INICIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="245" y="260" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0kT9vvtACOK-H92AWQC_-20" value="VOLTAR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0kT9vvtACOK-H92AWQC_-23" value="CONFIRMA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="600" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0kT9vvtACOK-H92AWQC_-24" value="PAGO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="340" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0kT9vvtACOK-H92AWQC_-25" value="DIVIDAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="410" width="360" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
