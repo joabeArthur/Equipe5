@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T11:31:32.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VZ2o9OJ0UirTzQ6qnm-i" version="24.4.13" type="device">
+<mxfile host="app.diagrams.net" modified="2024-06-04T11:38:04.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qUB-7YoTqSUo7ROqQ8tO" version="24.4.13" type="device">
   <diagram name="Página-1" id="jJy1RU-EPVTx5mREoZYD">
     <mxGraphModel dx="607" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -399,6 +399,33 @@
         </mxCell>
         <mxCell id="b9ZxkMi48kO8AsQnuFB3-99" value="Pode ser usada está mesma pagina para todos os outros só mudar os valores." style="shape=display;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1800" y="1621" width="247.5" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="b9ZxkMi48kO8AsQnuFB3-101" value="AVISO:&amp;nbsp;&lt;div&gt;Dados Invalidos&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="917.5" y="660" width="185" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="b9ZxkMi48kO8AsQnuFB3-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="896" y="160" width="250" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="b9ZxkMi48kO8AsQnuFB3-103" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="922" y="260" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b9ZxkMi48kO8AsQnuFB3-104" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="982" y="260" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b9ZxkMi48kO8AsQnuFB3-105" value="Senha" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="922" y="360" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b9ZxkMi48kO8AsQnuFB3-106" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="982" y="360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b9ZxkMi48kO8AsQnuFB3-107" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="957" y="180" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b9ZxkMi48kO8AsQnuFB3-108" value="Comfirmar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="972" y="450" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="b9ZxkMi48kO8AsQnuFB3-109" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tentar de novo&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="971" y="775" width="84" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
