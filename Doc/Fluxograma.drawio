@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T11:49:21.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7Mxh5bGYYzfgmjooaWat" version="24.4.13" type="device">
+<mxfile host="app.diagrams.net" modified="2024-06-06T14:38:36.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="UTw4Fx-BAdoQYn0EmXlt" version="24.4.15" type="device">
   <diagram name="Página-1" id="Dq87rdSpJrZvdUK0JQJ7">
-    <mxGraphModel dx="5736" dy="3128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1481" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,7 +182,7 @@
         <mxCell id="hqpeMZF9bb1hOAi0Rn5U-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="y3T2lZ8Firc1jPN3p4i4-13" target="y3T2lZ8Firc1jPN3p4i4-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3T2lZ8Firc1jPN3p4i4-13" value="ADICIONAMENTO&lt;div&gt;DE DIVIDAS:&lt;/div&gt;&lt;div&gt;Nome:xxx&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dividas&lt;/span&gt;:xxx&lt;/div&gt;&lt;div&gt;Valor:xxx&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="y3T2lZ8Firc1jPN3p4i4-13" value="ADICIONAMENTO&lt;div&gt;DE DIVIDAS:&lt;/div&gt;&lt;div&gt;Nome:xxx&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dividas&lt;/span&gt;:xxx&lt;/div&gt;&lt;div&gt;Valor:xxx&lt;/div&gt;&lt;div&gt;&lt;div&gt;Produto:xxx&lt;/div&gt;&lt;div&gt;Quantidade:xxx&lt;/div&gt;&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1770" y="1044" width="140" height="154" as="geometry" />
         </mxCell>
         <mxCell id="y3T2lZ8Firc1jPN3p4i4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3T2lZ8Firc1jPN3p4i4-18" target="y3T2lZ8Firc1jPN3p4i4-20" edge="1">
@@ -313,7 +313,7 @@
         <mxCell id="hqpeMZF9bb1hOAi0Rn5U-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="hqpeMZF9bb1hOAi0Rn5U-82" target="hqpeMZF9bb1hOAi0Rn5U-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hqpeMZF9bb1hOAi0Rn5U-82" value="ADICIONAMENTO&lt;div&gt;DE DEVEDORES:&lt;/div&gt;&lt;div&gt;Nome:xxx&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dividas&lt;/span&gt;:xxx&lt;/div&gt;&lt;div&gt;Valor:xxx&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hqpeMZF9bb1hOAi0Rn5U-82" value="ADICIONAMENTO&lt;div&gt;DE DEVEDORES:&lt;/div&gt;&lt;div&gt;Nome:xxx&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dividas&lt;/span&gt;:xxx&lt;/div&gt;&lt;div&gt;Valor:xxx&lt;/div&gt;&lt;div&gt;Produto:xxx&lt;/div&gt;&lt;div&gt;Quantidade:xxx&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1824.97" y="1967" width="140" height="154" as="geometry" />
         </mxCell>
         <mxCell id="hqpeMZF9bb1hOAi0Rn5U-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqpeMZF9bb1hOAi0Rn5U-87" target="hqpeMZF9bb1hOAi0Rn5U-89" edge="1">
@@ -439,7 +439,7 @@
         <mxCell id="hqpeMZF9bb1hOAi0Rn5U-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="hqpeMZF9bb1hOAi0Rn5U-114" target="hqpeMZF9bb1hOAi0Rn5U-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hqpeMZF9bb1hOAi0Rn5U-114" value="ADICIONAMENTO&lt;div&gt;DE LUCRO:&lt;/div&gt;&lt;div&gt;Nome:xxx&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dividas&lt;/span&gt;:xxx&lt;/div&gt;&lt;div&gt;Valor:xxx&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hqpeMZF9bb1hOAi0Rn5U-114" value="ADICIONAMENTO&lt;div&gt;DE LUCRO:&lt;/div&gt;&lt;div&gt;Nome:xxx&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dividas&lt;/span&gt;:xxx&lt;/div&gt;&lt;div&gt;Valor:xxx&lt;/div&gt;&lt;div&gt;&lt;div&gt;Produto:xxx&lt;/div&gt;&lt;div&gt;Quantidade:xxx&lt;/div&gt;&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="634.94" y="1947" width="140" height="154" as="geometry" />
         </mxCell>
         <mxCell id="hqpeMZF9bb1hOAi0Rn5U-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqpeMZF9bb1hOAi0Rn5U-119" target="hqpeMZF9bb1hOAi0Rn5U-121" edge="1">
